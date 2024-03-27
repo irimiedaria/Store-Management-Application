@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"BLL"},{"l":"BLL.validators"},{"l":"connection"},{"l":"DAO"},{"l":"model"},{"l":"org.example"},{"l":"presentation"},{"l":"start"}];updateSearchResults();
